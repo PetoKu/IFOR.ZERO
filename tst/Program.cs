@@ -9,7 +9,7 @@ namespace ConsoleApplication
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Hello World");
+            Console.WriteLine("this would be only my github playground repo");
             Console.Read();
         }
     }
